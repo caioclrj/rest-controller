@@ -1,0 +1,11 @@
+database: "none"
+archetypeVersion: "2.0.7"
+sigla: "t99"
+package: "br.com.bb.t99"
+provimentoIIB: "none"
+consumoIIB: "none"
+groupId: "br.com.bb.t99"
+artifactId: "t99-rest-controller"
+version: "0.1.0-SNAPSHOT"
+treinamento: "false"
+createAt: 2022-08-31T12:10:42.915428
